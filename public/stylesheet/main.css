@@ -1,0 +1,13 @@
+#delete{
+display: inline
+}
+
+#deleted{
+    display: inline;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap
+
+}
